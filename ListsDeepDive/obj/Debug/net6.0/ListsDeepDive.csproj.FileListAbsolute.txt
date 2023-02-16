@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\ListsDeepDive\obj\Debug\net6.0\ListsDeepDive.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\ListsDeepDive\obj\Debug\net6.0\ListsDeepDive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\ListsDeepDive\obj\Debug\net6.0\ListsDeepDive.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\ListsDeepDive\obj\Debug\net6.0\ListsDeepDive.AssemblyInfo.cs
+C:\Users\Admin\Desktop\ListsDeepDive\obj\Debug\net6.0\ListsDeepDive.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ListsDeepDive\bin\Debug\net6.0\ListsDeepDive.exe
+C:\Users\Admin\Desktop\ListsDeepDive\bin\Debug\net6.0\ListsDeepDive.deps.json
+C:\Users\Admin\Desktop\ListsDeepDive\bin\Debug\net6.0\ListsDeepDive.runtimeconfig.json
+C:\Users\Admin\Desktop\ListsDeepDive\bin\Debug\net6.0\ListsDeepDive.dll
+C:\Users\Admin\Desktop\ListsDeepDive\bin\Debug\net6.0\ListsDeepDive.pdb
+C:\Users\Admin\Desktop\ListsDeepDive\obj\Debug\net6.0\ListsDeepDive.dll
+C:\Users\Admin\Desktop\ListsDeepDive\obj\Debug\net6.0\refint\ListsDeepDive.dll
+C:\Users\Admin\Desktop\ListsDeepDive\obj\Debug\net6.0\ListsDeepDive.pdb
+C:\Users\Admin\Desktop\ListsDeepDive\obj\Debug\net6.0\ListsDeepDive.genruntimeconfig.cache
+C:\Users\Admin\Desktop\ListsDeepDive\obj\Debug\net6.0\ref\ListsDeepDive.dll
